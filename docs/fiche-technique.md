@@ -1,8 +1,6 @@
 # Fiche technique — EcoLife (projet Éco-Challenge)
 
-> **Binôme :** Iman Maggouh Essabiri (@imanmagg) — cheffe de projet / UX-UI · Walid Meziane (@walid-mz) — développeur / contenu
-> **Classe :** MGENTRM1 — HEFF, site Anneessens · 2026-2027
-> **Version :** v1 — 5 novembre 2026 (document évolutif : wireframes, maquettes et design system viendront s'ajouter)
+> **Binôme :** Iman Maggouh Essabiri · Walid Meziane
 
 ---
 
