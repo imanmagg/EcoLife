@@ -211,4 +211,4 @@
 - [ ] Design system (palette, typos, composants) → traduit dans `theme.json`
 - [ ] Rédaction du `Contrat.json` complet
 - [ ] Installation de WordPress en local + thème enfant
-- [ ] Premiers défis rédigés (objectif : 15 au lancement)
+- [ ] Premiers défis rédigés (objectif : 12 au lancement)
